@@ -112,29 +112,13 @@ cd achievement_box
 
 两只桌宠可以同时开着，互不干扰。
 
-## 一点约定
-
-1. 一个工具一个文件夹，自带 `README.md`，写清怎么跑、依赖什么；
-2. 入口保持「双击就能用」——`.bat` 或 `.pyw`；
-3. 配置和用户数据用 JSON 存在工具目录内，不写注册表、不写全局路径；
-4. 不提交 `__pycache__/`、`*.pyc`、`pet_error.log` 和可执行文件，能把仓库压小；
-5. 资料类目录只放链接或截图，附一句用途说明。
-
-## 多远程推送
-
-仓库同时绑了 Gitee 和 GitHub，用一条别名一次推两边：
-
-```bash
-git config --global alias.pushall '!git push origin master && git push github master'
-git pushall
-```
-
-换机器后重建远程：
-
-```bash
-git remote add origin <Gitee 仓库地址>
-git remote add github <GitHub 仓库地址>
-```
+## nuicloud 小项目 
+1. 一个简单的页面
+   1. 电脑端 
+   <img src = "./unicloud/1.png">
+   2. 手机端
+   <img src = "./unicloud/2.png">
+2. 浏览网址是: https://env-00jy73aay3sd-static.normal.cloudstatic.cn/
 
 ## 说明
 
