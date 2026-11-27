@@ -112,11 +112,12 @@ cd achievement_box
 
 两只桌宠可以同时开着，互不干扰。
 
-## nuicloud 小项目 
+### **nuicloud小项目**
 1. 一个简单的页面
    1. 电脑端 
    <img src = "./unicloud/1.png">
    2. 手机端
+   
    <img src = "./unicloud/2.png">
 2. 浏览网址是: https://env-00jy73aay3sd-static.normal.cloudstatic.cn/
 
